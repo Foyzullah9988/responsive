@@ -1,0 +1,51 @@
+.mono {
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+}
+
+.dark-1 {
+    color: #000000;
+}
+
+.dark-2 {
+    color: rgba(20, 9, 9, 0.463);
+}
+
+.btn-first {
+    padding: 17px 24px;
+    background-color: white;
+    border-radius: 8px;
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+/*......................... styles...................  */
+/* .......................header related style................................ */
+.header-logo {
+    font-size: 1.75rem;
+    font-weight: 800;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 38px 5% auto;
+}
+/* .............................head container */
+.btn-second{
+    background-color: black;
+    color: white;
+}
+.head-container{
+    background-image: url("./Hero-bg.png");
+    width: 100%;
+    text-align: center;
+}
+.head-body{
+    margin: 45px;
+    padding: 25px 4.5% 45px;
+}
+.btn-second{
+    background-color: black;
+}

@@ -1,0 +1,42 @@
+@media screen and (min-width: 576px) and (max-width: 970px)  {
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 576px) {
+    .btn-first {
+    padding: 7px 4px;
+    background-color: white;
+    border-radius: 8px;
+    font-size: .75rem;
+    font-weight: 600;
+}
+.header-logo {
+    font-size: 1rem;
+    font-weight: 800;
+}
+.btn-second{
+    color: white;
+    background-color: black;
+}
+
+
+}
